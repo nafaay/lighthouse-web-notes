@@ -13,4 +13,4 @@ According to these 2 parameters the program will console what the user should do
 
 [Youssef Nafaa](https://github.com/nafaay/)
 
-[Lighthouse Labs](lighthouselabs.ca)
+[Lighthouse Labs](https://www.lighthouselabs.ca/)
