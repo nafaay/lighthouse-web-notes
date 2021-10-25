@@ -1,6 +1,6 @@
-#Youssef Nafaa's Notes
+# Youssef Nafaa's Notes
 
-###Summary
+### Summary
 
 This repository will contain all notes taken by Youssef Nafaa during
 the labs in Lighthouse Lab
